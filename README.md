@@ -1,4 +1,4 @@
-# <i>My recent blockchain projects on Bitcoin, EVM(Ethereum, Base, TRON, BSC), Solana, TON ...</i>
+# <i>My blockchain projects on Bitcoin, EVM(Ethereum, Base, TRON, BSC), Solana, TON ...</i>
 
 Here are my past web3 projects
 As you can see here, I have participated in several DeFi, NFT projects on vairous networks like minting, staking, evolution/breeding, raffle/auction, marketplace, launchpad, nft lend/borrow platforms.
